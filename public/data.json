@@ -1,0 +1,50 @@
+ [
+  {
+    "id": 1,
+    "title": "Jugging",
+    "description": "Lorem ipsume Lorem ipsumeLorem ipsumeLorem ipsumeLorem ipsume",
+    "image": "https://source.unsplash.com/AtfA8NDgpKA/600x400",
+    "duration": 45,
+    "unit": "m"
+  },
+  {
+    "id": 2,
+    "title": "Dumbbell Exercise",
+    "description": "Lorem ipsume Lorem ipsumeLorem ipsumeLorem ipsumeLorem ipsume",
+    "image": "https://source.unsplash.com/FP7cfYPPUKM/600x400",
+    "duration": 30,
+    "unit": "m"
+  },
+  {
+    "id": 3,
+    "title": "Push-ups",
+    "description": "Lorem ipsume Lorem ipsumeLorem ipsumeLorem ipsumeLorem ipsume",
+    "image": "https://source.unsplash.com/jD4MtXnsJ6w/600x400",
+    "duration": 15,
+    "unit": "m"
+  },
+  {
+    "id": 4,
+    "title": "Running",
+    "description": "Lorem ipsume Lorem ipsumeLorem ipsumeLorem ipsumeLorem ipsume",
+    "image": "https://source.unsplash.com/fjpl1yrNvNQ/600x400",
+    "duration": 12,
+    "unit": "m"
+  },
+  {
+    "id": 5,
+    "title": "Cycling",
+    "description": "Lorem ipsume Lorem ipsumeLorem ipsumeLorem ipsumeLorem ipsume",
+    "image": "https://source.unsplash.com/WUehAgqO5hE/600x400",
+    "duration": 40,
+    "unit": "m"
+  },
+  {
+    "id": 6,
+    "title": "Weight Lifting",
+    "description": "Lorem ipsume Lorem ipsumeLorem ipsumeLorem ipsumeLorem ipsume",
+    "image": "https://source.unsplash.com/KZrwKV90zRk/600x400",
+    "duration": 20,
+    "unit": "m"
+  }
+]
